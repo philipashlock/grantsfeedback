@@ -11,7 +11,7 @@ page: child
 
 You can provide feedback on the Federal Grants Management Draft Data Standards in four easy steps! 
 1.	Sign up for a [FREE GitHub Account](https://github.com/). If you already have a GitHub Account skip to Step 2.
-2.	Review the 418 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
+2.	Review the 426 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
 3.	Select the “Leave Feedback” button and add comments in this new tab. Ensure you reference which data element(s) you are commenting on. 
 4.	Select “Submit New Issue” to submit your comments.
 
