@@ -17,7 +17,7 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on.
 
-<a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" class="btn btn-primary" role="button">Leave Feedback</a>
+<a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" target="_blank" class="btn btn-primary" role="button">Leave Feedback</a>
 
 
 <script type="text/javascript">
