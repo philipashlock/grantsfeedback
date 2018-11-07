@@ -1,4 +1,4 @@
-init: function (options) { 
+init: function (options) 
 options = options || {};
         var csv_path = options.csv_path || "";
         var el = options.element || "table-container";
