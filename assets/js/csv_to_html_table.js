@@ -1,4 +1,6 @@
-init: function (options) 
+CsvToHtmlTable = {
+    init: function (options) {
+
 options = options || {};
         var csv_path = options.csv_path || "";
         var el = options.element || "table-container";
