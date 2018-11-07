@@ -1,4 +1,5 @@
- options = options || {};
+init: function (options) { 
+options = options || {};
         var csv_path = options.csv_path || "";
         var el = options.element || "table-container";
         var allow_download = options.allow_download || false;
