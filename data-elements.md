@@ -10,10 +10,12 @@ page: child
 ## Give Feedback on the Federal Grants Management Data Standards 
 
 You can provide feedback on the Federal Grants Management Draft Data Standards in four easy steps! 
-1.	Sign up for a [FREE GitHub Account](https://github.com/). If you already have a GitHub Account skip to Step 2.
-2.	Review the 426 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
-3.	Select the “Leave Feedback” button and add comments in this new tab. Ensure you reference which data element(s) you are commenting on. 
-4.	Select “Submit New Issue” to submit your comments.
+1. Sign up for a [FREE GitHub Account](https://github.com/). If you already have a GitHub Account skip to Step 2.
+2. Review the 426 Data Standards Elements in the table below. Use the search box in the top right corner to filter by keyword.
+3. Select the “Leave Feedback” button to open a new tab and select "Get Started." Enter your comments in the box for a single data element, being sure to title that comment with the data element number. You must submit a separate comment/issue for each data element. 
+4. Select “Submit New Issue” to submit your comments. Repeat the process for each data element you have feedback for. 
+
+<a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download Github Feedback FAQs PDF</a> <a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download User Guide for Github Feedback PDF</a> 
 
 To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. All comments received may be posted without change, including any personal information provided. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
 
@@ -33,8 +35,7 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 
 <div id="table-container"></div>
 
-Below you can download the use cases for these data elements that will eventually become data standards for grants management. You can also download the entire draft data elements list. 
-
+Below you can download entire draft data elements list. 
 <a href="/assets/docs/use-case-summaries.pdf"  class="btn btn-primary">Download Use Case Summaries PDF</a> <a href="/data/GRM-Data-View-For-Public-Comment-1.csv"  class="btn btn-primary">Download Draft Data Elements List</a>
 
 ## Join the Conversation!
