@@ -29,7 +29,7 @@ whitelist:
 navigation:
  - title: Home
    url: /index.html
- - title: Draft Grants Management Data Elements Feedback
+ - title: Give Feedback
    url: /data-elements.html
    
 
