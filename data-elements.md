@@ -15,7 +15,7 @@ You can provide feedback on the Federal Grants Management Draft Data Standards i
 3.	Select the “Leave Feedback” button and add comments in this new tab. Ensure you reference which data element(s) you are commenting on. 
 4.	Select “Submit New Issue” to submit your comments.
 
-To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on.
+To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs. Please ensure that you reference which data element you are commenting on. All comments received may be posted without change, including any personal information provided. Do not submit confidential business information, trade secret information, or other sensitive or protected information that you do not want to be available to the public.
 
 <a href="https://github.com/OFFM-MCAB/grantsfeedback/issues/new/choose" target="_blank" class="btn btn-primary" role="button">Leave Feedback</a>
 
