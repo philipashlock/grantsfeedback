@@ -35,9 +35,9 @@ To provide feedback on the Draft Data Elements, refer to the User Guide and FAQs
 
 <div id="table-container"></div>
 
+
 Below you can download entire draft data elements list. 
 <a href="/data/GRM-Data-View-For-Public-Comment-1.csv"  class="btn btn-primary">Download Draft Data Elements List</a>
-
 ## Join the Conversation!
 
 Do you have questions about the process for giving feedback? Call into our Office Hours 
