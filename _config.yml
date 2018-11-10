@@ -31,8 +31,8 @@ navigation:
    url: /index.html
  - title: Give Feedback
    url: /data-elements.html
-   
 
+data_dir: data
 
 sass:
   sass_dir:          assets/_scss

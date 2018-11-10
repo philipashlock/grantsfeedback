@@ -1,0 +1,12 @@
+.element-table td {
+  border : 1px solid #ccc;
+  padding : .5em;
+}
+
+.element-table th {
+  padding : .5em;
+}
+
+.element-table tr:nth-child(even) td {
+    background: #e8e8e8;
+}
